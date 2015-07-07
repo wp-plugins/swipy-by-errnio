@@ -128,9 +128,8 @@ FOR MORE INFORMATION contact us at:
 
 == Screenshots ==
 
-1. swipy provides recommended content on your site
-2. swipy hints with a right-side arrow
-3. swipy in action
+1. swipy hints with a right-side arrow
+2. swipy provides recommended content on your site
 
 == Changelog ==
 
