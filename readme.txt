@@ -69,7 +69,7 @@ Here's a quick, easy step by step installation <a href="http://errnio.com/WP/wor
 4. Activate the plugin.
 5. You should receive a notification on your dashboard, follow the registration instructions there.
 
-**Don't forget** to register your site to get a site ID at <a href="http://errnio.com/" target="_blank">errnio!</a>
+**Don't forget** to register your site to get a site ID at <a href="http://errnio.com/" target="_blank">errnio</a>!
 
 If you have any problems, contact us at <a href="mailto:support@errnio.com" target="_blank">support@errnio.com</a>
 
