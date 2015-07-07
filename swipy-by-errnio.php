@@ -2,7 +2,7 @@
 /*
 Plugin Name: Swipy by errnio
 Plugin URI: http://errnio.com
-Description: Swipy offers your mobile site visitors more of your content with a swipe action gallery, enhancing experience, content circulation and time spent on your site.
+Description: Swipy offers your mobile site visitors more of your content with swipe action cards, enhancing experience, content circulation and time spent.
 Version: 1.0
 Author: Errnio
 Author URI: http://errnio.com

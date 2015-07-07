@@ -1,41 +1,46 @@
 ===Swipy by errnio===
 
 Contributors: errnio
-Tags: mobile, engagement, gesture, bounce rate, time spent, increase traffic, content recommendation, errnio, social
+Tags: swipe, swipy, mobile, engagement, gesture, bounce rate, time spent, increase traffic, content recommendation, errnio, social, images, pages, media, photos, plugin, twitter, facebook, content, wordpress, sharing, share, social media buttons, whatsapp, email,MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media buttons , links, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, newsletter, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Swipy offers your mobile site visitors more of your content with a swipe action gallery, enhancing experience, content circulation and time spent on your site. 
+Swipy offers your mobile site visitors more of your content with swipe action cards, enhancing experience, content circulation and time spent.
 
 
 == Description ==
 
-**Swipy** by **errnio** adds a new engagement layer to your site with a simple addition of a swipe left gallery of your articles. The swipe gallery is hidden from view until your users swipe left on their mobile screen. This tool enhances user experience, engaging your visitors with your content on mobile. errnio can increase your pages per visit, time spent on site, and improve your over site engagement on mobile. Our plugin automatically scans all articles read on your site, and offers users an intuitive gallery of your popular, top, contextual articles. No additional integration is required, and with a simple plugin we have all we need to make your users more engagement on your site, with a great mobile user experience of your content. 
+**Swipy** by **errnio** adds a new engagement layer to your site with a simple addition of a swipe left gallery of your articles. The swipe gallery is hidden from view until your users swipe left on their mobile screen. This tool enhances user experience, engaging your visitors with your content on mobile. errnio can increase your pages per visit, time spent on site, and improve your over site engagement on mobile. Our plugin automatically scans all articles read on your site, and offers users an intuitive gallery of your popular, top, contextual articles.
+
+No additional integration is required, and with a simple plugin we have all we need to make your users more engagement on your site, with a great mobile user experience of your content.
 In addition, without adding **ads** or **banners**, errnio can enhance your revenue. Make **more** money from your site with **no more** banners or ads. No more pushy advertising, be part of the revolution. On our **swipy** plugin we can integrate recommended content from around the web, to enhance your site revenue.  
 See more about our features and how our product works at <a href="http://errnio.com" target="_blank">errnio.com</a>
 
 = Features =
+
 **Swipy** main features include enhancement of the following items gesture actions:
-* **Automatic Content Recommendation** - Our plugin automatically scans and indexes your content so that it can be served to your swipe gallery for every users swipe action. Note that it may take a few hours for this to be fully indexed, depending on the amount of articles and traffic to your site. 	
-* **Swipe Left Hint Arrow** - Hints in the form of an arrow on the right side of the screen are displayed once entering and scrolling the site content. This will help your users engage better with the swipe gallery.  
-* **Easy Reading Gallery** - Once activated, the gallery is easily scalable left-right with the finger, and displays 3-5 articles at any given time. 
+
+* **Automatic Content Recommendation** - Our plugin automatically scans and indexes your content so that it can be served to your swipe gallery for every users swipe action. Note that it may take a few hours for this to be fully indexed, depending on the amount of articles and traffic to your site.
+* **Swipe Left Hint Arrow** - Hints in the form of an arrow on the right side of the screen are displayed once entering and scrolling the site content. This will help your users engage better with the swipe gallery.
+* **Easy Reading Gallery** - Once activated, the gallery is easily scrollable left to right, and displays 3-5 articles at any given time.
 * **Social Action Buttons** - Each article card in the gallery also include social share buttons for user convenience. 
 * **Content Monetization** - Your gallery of articles can also include recommendations from around the web. To be eligible for this revenue program please register with us.
 
-We also feature monetization options for selected publisher sites, with the following features: 
+We also feature monetization options for selected publisher sites, with the following features:
+
 * **Web Search** - a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled "top hits". This serves users with promoted actions and content helping you as a site owner looking to make profit from advertising, to earn revenue off exiting traffic in a seamless and unobtrusive way with no banners or ads.
 * **Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site with no banners or ads. 
 * **Bottom bar** - An additional bottom bar is displayed to your site, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing with no ads.
 
-To be eligible for our revenue program pls make sure register with us. 
+To be eligible for our revenue program please make sure register with us.
 
 = How it Works =
 
 The **errnio plugin** reaches out to errnio servers and includes the errnio **gesture recognition code**. The gesture recognition code taps into your visitor gestures, performed on your site, and analyses which errnio engagement action or monetization unit will work effectively. errnio works with various 3rd party advertisers by connecting the right offers to the right gesture in the right context in and the right time - **ONLY** and **EXCLUSIVELY** within the errnio gesture functions. We never inject ads into your site!
-Using the unique **errnio** plugin maximizes your full engagement and monetization potential on mobile web with no banners or taking any more of your site real-estate. **Swipy** senses finger gesture actions users perform, and offers up your content gallery upon a certain swipe left command, while also disabling any other zoom or scroll gesture axes when engaging the user with the swipe gallery. 
+Using the unique **errnio** plugin maximizes your full engagement and monetization potential on mobile web with no banners or taking any more of your site real-estate. **Swipy** senses finger gesture actions users perform, and offers up your content gallery upon a certain swipe left command.
 
 = Advantages =
 
@@ -46,7 +51,7 @@ Using the unique **errnio** plugin maximizes your full engagement and monetizati
 * Gain useful insights using our analytics for gestures (coming soon)
 * Works on all leading mobile platforms, browsers and devices. 
 
-Make sure to get your ID and Sign up to our service to gain access to: 
+Make sure to sign up to our service to gain access to:
 
 * Troubleshooting and support
 * Revenue reporting and accounts management 
@@ -55,18 +60,18 @@ Make sure to get your ID and Sign up to our service to gain access to:
 
 == Installation ==
 
-Adding the errnio engagement pack plugin to your admin page is super easy.
+Installing the errnio Swipy plugin is super easy.
 Here's a quick, easy step by step installation <a href="http://errnio.com/WP/wordpress-instructions.pdf" target="_blank">guide</a>
 
 1. Go to the Plugins tab at your WP admin page and click on Add New.
-2. In the search box type in errnio and click on the Search Plugins button.
+2. In the search box type in errnio and click on the "Search Plugins" button.
 3. Download the plugin.
 4. Activate the plugin.
-5. You should receive a notification on your dashboard requesting your site ID, follow the instructions there.
+5. You should receive a notification on your dashboard, follow the registration instructions there.
 
 **Don't forget** to register your site to get a site ID at <a href="http://errnio.com/" target="_blank">errnio!</a>
 
-If you have any problems, contact us at support@errnio.com
+If you have any problems, contact us at <a href="mailto:support@errnio.com" target="_blank">support@errnio.com</a>
 
 
 == Frequently Asked Questions ==
@@ -119,10 +124,13 @@ No. We do not collect user information from your site. Our data policy is strict
 
 
 FOR MORE INFORMATION contact us at:
-info@errnio.com
+<a href="mailto:info@errnio.com" target="_blank">info@errnio.com</a>
 
 == Screenshots ==
 
+1. swipy provides recommended content on your site
+2. swipy hints with a right-side arrow
+3. swipy in action
 
 == Changelog ==
 
