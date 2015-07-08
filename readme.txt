@@ -133,9 +133,13 @@ FOR MORE INFORMATION contact us at:
 
 == Changelog ==
 
+= 1.1 =
+* Updated some WP api usage
+
 = 1.0 =
 * First version release
 
 == Upgrade Notice ==
 
+**1.1 updated native wp api
 **1.0 version release
