@@ -13,6 +13,8 @@ Swipy offers your mobile site visitors more of your content with swipe action ca
 
 == Description ==
 
+**This plugin only works best with sites which have existing content.** Do not attempt to use it unless your site features less then two articles or sections.
+
 **Swipy** by **errnio** adds a new engagement layer to your site with a simple addition of a swipe left gallery of your articles. The swipe gallery is hidden from view until your users swipe left on their mobile screen. This tool enhances user experience, engaging your visitors with your content on mobile. errnio can increase your pages per visit, time spent on site, and improve your over site engagement on mobile. Our plugin automatically scans all articles read on your site, and offers users an intuitive gallery of your popular, top, contextual articles.
 
 No additional integration is required, and with a simple plugin we have all we need to make your users more engagement on your site, with a great mobile user experience of your content.
